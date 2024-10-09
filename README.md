@@ -24,5 +24,9 @@ Features:
 
 
 1.Creates tables and relationships for customers, orders, and products.
+
+
 2.Inserts sample data for testing.
+
+
 3.Executes various queries to retrieve useful information.
